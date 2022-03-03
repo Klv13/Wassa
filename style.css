@@ -1,0 +1,50 @@
+body{
+    background-image: linear-gradient(90deg, cornflowerblue, #aac0eb);
+    font-family: 'Roboto', sans-serif;
+}
+h1{
+    text-align: center;
+    font-size: 3rem;
+    color: antiquewhite;
+}
+p{
+    text-align: center;
+    color: antiquewhite;
+    font-size: 1rem;
+}
+.WaterGlass{
+    opacity: 0.2;
+    display: block;
+    width: 100%;
+    height: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    transition: all 0.3s ease;
+}
+.WaterGlassbtn{
+    display: block;
+    width: 20%;
+    height: 20%;
+    margin-left: auto;
+    margin-right: auto;
+    background: none;
+    color: none;
+    border: none;
+}
+.WaterGlassComplete{
+    opacity: 1;
+    display: block;
+    width: 100%;
+    height: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1rem;
+}
+footer{
+    background-color: #42464e;
+    height: 3rem;
+    width: 100%;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    margin-top: 1rem;
+}
